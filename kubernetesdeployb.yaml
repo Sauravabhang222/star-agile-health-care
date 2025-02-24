@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: healthcare-eta-container
-        image: vsw210/healthcare-eta-app:latest
+        image: sauravabhang/healthcare-eta-app:latest
         ports:
         - containerPort: 8082
 ---
